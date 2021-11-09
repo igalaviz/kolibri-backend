@@ -1,0 +1,14 @@
+{
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+          "path": "/bin/bash",
+          "icon": "terminal-bash",
+          "args": ["-i"]
+        }
+      },
+      "terminal.integrated.defaultProfile.linux":"bash"
+}
+    
